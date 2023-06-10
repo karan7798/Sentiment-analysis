@@ -120,18 +120,6 @@ if chart == 'About':
     #st_lottie(lottie_cod)
 
 
-    st.write("""P-182 Hotel Rating Classification :
-
-
-                   1.Mr.Madhuresh Kumar
-    2.Ms.Varsha Reddy
-    3.Mr.Hemant Shinde
-    4.Mr.Karan Patil
-    5.Ms.Madhuri Varpe
-    6.Mr.Omprasad Kolhal
-    7.Ms.Shraddha Hukkeri
-           """)
-
 if chart == 'Dataset':
     st.subheader('Data Information')
     h = ['Show Dataset','jajhjh']
